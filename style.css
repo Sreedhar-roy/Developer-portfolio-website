@@ -18,7 +18,10 @@ p{
 }
 .half-box{
     width: 50%;
-    padding-left: 2%;
+    padding-left: 5%;
+}
+.half-box img{
+    width:80%;
 }
 .title-color{
     color:orange;
